@@ -15,4 +15,4 @@ Os pedidos são convertidos para Parquet via chunks e salvos localmente na pasta
 
 ## Resultado resumido
 
-O relatório completo está no arquivo `Analise_de_impactos_do_teste_de_cupons.pdf`.
+O relatório completo está no arquivo `Analise_de_impactos_do_teste_de_cupons.pdf` na pasta `report`.
